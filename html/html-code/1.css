@@ -1,0 +1,8 @@
+a {
+	text-decoration : none;
+}
+
+#baiduSpan{
+	text-decoration : underline;
+	cursor: pointer;
+}
